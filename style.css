@@ -1,11 +1,16 @@
 /* Tag selector to select the 'body' element */
 body {
-  background: 
+  background: #00b3e6; 
   /* Your code here! */
 }
 
 /* Tag selector to select all 'div' elements. We only have one 'div' in our HTML */
 div {
+  width: 700px;
+  margin:auto;
+  font-family: "Helvetica Neue";
+  background: white;
+  padding: 30px;
   /* Your code here! */
 }
 
@@ -13,6 +18,9 @@ div {
 #main-header {
   /* Your code here! */
   color:red;
+  font-size: 22px;
+  font-style: italic;
+  
 }
 
 /* Class selector to select elements containing the class 'perspective-questions' */
